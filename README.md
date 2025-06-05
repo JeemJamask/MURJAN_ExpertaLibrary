@@ -9,7 +9,7 @@ Coastal pollution is a critical threat to marine ecosystems. MURJAN addresses th
 
 ## 👥 Team Members
 
-- **Shahad Duqayl Salem** (Leader)
+- **Shahad Duqayl Salem** 
 - **Bashayer Khalid**
 - **Joud Jamal Alkishi**
 
